@@ -29,7 +29,7 @@ driver.quit()
 # Create a list of dictionaries, each representing a cafe
 cafe_data = []
 for name, address in zip(cafe_names, cafe_address):
-    cafe_data.append({"Names": name, "Address": address,"Email-Id":"jhagagan674@gmail.com"})
+    cafe_data.append({"Names": name, "Address": address,"Email-Id":"sendermail@gmail.com"})
 
 # Create a DataFrame from the list of dictionaries
 df = pd.DataFrame(cafe_data)
