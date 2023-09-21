@@ -17,20 +17,13 @@ userneed to set everything according to the user's needs.
 Here youI need to create a Google Sheet with the name and 
 title and make itshare with the Google authentication drive 
 and also need to attach a JSON file that you have downloaded 
-from Google.authentication drive for further assistance in 
-this topic I used chatgpt. After doing all the things, we 
+from Google.authentication drive . After doing all the things, we 
 just ran this script, which will append all the data to the 
 Google Sheet.
 
 3. sendemail: This file will send the email to each email.ID 
 in the csv file, as we have set a single mail ID, so it is 
 going to send single mail with attaching the csv file.
-This is how my simple and very basic code works, if 
-The company wants this API at such a level that any user 
-can use it, they can ask me. I can create this API and convert
-it into GUI form using the tkiner library of Python, so that 
-any Normal users can use it very easily for office use.
 
-Kindly appreciate my work ,it is time-consuming as well.
 
-Thankyou !!!
+
